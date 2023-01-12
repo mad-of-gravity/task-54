@@ -28,6 +28,11 @@ html {
   flex-flow: column;
 }
 
+.item {
+  width: 200px;
+  background-color: blue;
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
